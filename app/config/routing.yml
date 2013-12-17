@@ -1,0 +1,5 @@
+lukniewiara_blog:
+    resource: "@lukniewiaraBlogBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
